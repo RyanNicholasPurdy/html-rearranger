@@ -1,1 +1,4 @@
-var $h2Above
+var $h2Above = $('<h2>');
+var $h2Below = $('<h2>');
+var $ulAbove = $('<ul>');
+var $ulBelo = $('<ul>');
